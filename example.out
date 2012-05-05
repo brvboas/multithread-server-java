@@ -1,0 +1,17 @@
+FROM SERVER: TESTE: 0  ,pela thread t1
+FROM SERVER: TESTE: 1  ,pela thread t9
+FROM SERVER: TESTE: 2  ,pela thread t8
+FROM SERVER: TESTE: 3  ,pela thread t10
+FROM SERVER: TESTE: 4  ,pela thread t6
+FROM SERVER: TESTE: 5  ,pela thread t7
+FROM SERVER: TESTE: 6  ,pela thread t3
+FROM SERVER: TESTE: 7  ,pela thread t5
+FROM SERVER: TESTE: 8  ,pela thread t4
+FROM SERVER: TESTE: 9  ,pela thread t2
+FROM SERVER: TESTE: 10  ,pela thread t4
+FROM SERVER: TESTE: 11  ,pela thread t5
+FROM SERVER: TESTE: 12  ,pela thread t3
+(...)
+FROM SERVER: TESTE: 97  ,pela thread t3
+FROM SERVER: TESTE: 98  ,pela thread t5
+FROM SERVER: TESTE: 99  ,pela thread t4
